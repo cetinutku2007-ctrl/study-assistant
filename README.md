@@ -13,7 +13,7 @@ Konsoldan ders bilgilerini alıp toplam çalışma süresini hesaplayan, konu ba
 ## Kurulum
 Python 3.10+ önerilir.
 
-```bash
+```bash```
 git clone https://github.com/cetinutku2007-ctrl/study-assistant.git
 cd study-assistant
 python study_assistant.py
