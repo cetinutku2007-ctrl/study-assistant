@@ -1,0 +1,6 @@
+Ders: Matematik
+Toplam süre: 24 saat
+
+olasılık → 8.00 saat
+polinom → 8.00 saat
+türev → 8.00 saat
